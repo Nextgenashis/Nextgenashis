@@ -140,6 +140,100 @@ I don't just write code—I build **products**, create **systems**, and develop 
 
 ---
 
+# 🏆 GitHub Badges & Achievements
+
+<div align="center">
+
+## 🎖️ Profile Badges
+
+[![GitHub followers](https://img.shields.io/github/followers/Nextgenashis?label=Followers&style=for-the-badge&color=ff00ff)](https://github.com/Nextgenashis)
+[![GitHub stars](https://img.shields.io/github/stars/Nextgenashis?label=Stars&style=for-the-badge&color=ffff00)](https://github.com/Nextgenashis)
+[![GitHub forks](https://img.shields.io/github/forks/Nextgenashis?label=Forks&style=for-the-badge&color=00ffff)](https://github.com/Nextgenashis)
+[![GitHub watchers](https://img.shields.io/github/watchers/Nextgenashis?label=Watchers&style=for-the-badge&color=00ff00)](https://github.com/Nextgenashis)
+
+## 🏅 Achievement Badges
+
+[![Pull Shark](https://img.shields.io/badge/Pull_Shark-2EA043?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nextgenashis)
+[![Quickdraw](https://img.shields.io/badge/Quickdraw-2EA043?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nextgenashis)
+[![YOLO](https://img.shields.io/badge/YOLO-2EA043?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nextgenashis)
+[![Pair Extraordinaire](https://img.shields.io/badge/Pair_Extraordinaire-2EA043?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nextgenashis)
+
+## 🌟 Special Badges
+
+[![GitHub Pro](https://img.shields.io/badge/GitHub_Pro-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nextgenashis)
+[![GitHub Campus Expert](https://img.shields.io/badge/Campus_Expert-2EA043?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nextgenashis)
+[![GitHub Star](https://img.shields.io/badge/GitHub_Star-FFD700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nextgenashis)
+[![Arctic Code Vault](https://img.shields.io/badge/Arctic_Code_Vault-00BFFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nextgenashis)
+
+## 📊 Contribution Badges
+
+[![100 Contributions](https://img.shields.io/badge/100_Contributions-2EA043?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nextgenashis)
+[![365 Day Streak](https://img.shields.io/badge/365_Day_Streak-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nextgenashis)
+[![First PR](https://img.shields.io/badge/First_PR-2EA043?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nextgenashis)
+[![First Issue](https://img.shields.io/badge/First_Issue-2EA043?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nextgenashis)
+
+## 🎯 How to Earn More Badges
+
+### 🐛 **Pull Shark**
+- Merge 2+ pull requests
+- **Status:** ✅ Earned
+
+### ⚡ **Quickdraw**
+- Close an issue/PR within 5 minutes
+- **Status:** ✅ Earned
+
+### 🚀 **YOLO**
+- Merge a PR without code review
+- **Status:** ✅ Earned
+
+### 👥 **Pair Extraordinaire**
+- Co-author a merged pull request
+- **Status:** ✅ Earned
+
+### 🏆 **GitHub Pro**
+- Subscribe to GitHub Pro
+- **Status:** ✅ Earned
+
+### 🎓 **Campus Expert**
+- Complete GitHub Campus Expert training
+- **Status:** 🔄 In Progress
+
+### ⭐ **GitHub Star**
+- Get 500+ stars on a repository
+- **Status:** 🔄 In Progress
+
+### 🏔️ **Arctic Code Vault**
+- Contribute to open source before 2020
+- **Status:** ✅ Earned
+
+## 🎯 Badge Goals
+
+| Badge | Requirement | Current | Status |
+|-------|-------------|---------|--------|
+| 🐛 Pull Shark | 2+ PRs merged | ✅ Done | ✅ Earned |
+| ⚡ Quickdraw | Close issue in 5min | ✅ Done | ✅ Earned |
+| 🚀 YOLO | Merge without review | ✅ Done | ✅ Earned |
+| 👥 Pair Extraordinaire | Co-author PR | ✅ Done | ✅ Earned |
+| 🏆 GitHub Pro | Subscribe | ✅ Done | ✅ Earned |
+| 🎓 Campus Expert | Training | 🔄 In Progress | 🔄 |
+| ⭐ GitHub Star | 500+ stars | 🔄 In Progress | 🔄 |
+| 🏔️ Arctic Code Vault | Pre-2020 contrib | ✅ Done | ✅ Earned |
+
+## 💡 Tips to Earn Badges
+
+1. **Contribute Daily** - Build your streak
+2. **Review PRs** - Help others and earn Pair Extraordinaire
+3. **Close Issues Fast** - Earn Quickdraw badge
+4. **Merge PRs** - Earn Pull Shark badge
+5. **Collaborate** - Co-author PRs with others
+6. **Open Source** - Contribute to popular repos
+7. **Star Repos** - Get your repos starred
+8. **Follow GitHub** - Stay updated on new badges
+
+</div>
+
+---
+
 # 🧠 Current Focus
 
 <div align="center">
